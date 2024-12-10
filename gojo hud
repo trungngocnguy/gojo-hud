@@ -1,0 +1,6 @@
+Config = {
+    namescript = "gojo Hud",--Tên Script
+    logoscript = "100719946990040",--ID Logo Script
+    tacgia = "gojo"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
